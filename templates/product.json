@@ -317,16 +317,16 @@
             "feature_column_label": "Feature",
             "us_column_label": "Us",
             "others_column_label": "Others",
-            "feature_1": "Deep Hydration",
+            "feature_1": "Leak-Proof Design",
             "feature_1_us": "check",
             "feature_1_others": "cross",
-            "feature_2": "Collagen Support",
+            "feature_2": "Travel-Friendly Size",
             "feature_2_us": "check",
             "feature_2_others": "cross",
-            "feature_3": "Lightweight Formula",
+            "feature_3": "Reusable Bottles",
             "feature_3_us": "check",
             "feature_3_others": "cross",
-            "feature_4": "Suitable for All Skin Types",
+            "feature_4": "Lightweight & Portable",
             "feature_4_us": "check",
             "feature_4_others": "cross",
             "feature_5": "",
@@ -345,14 +345,14 @@
             "border_radius": 8,
             "icon_size": 24,
             "table_bg_color": "#ffffff",
-            "header_bg_color": "#f5f5f5",
+            "header_bg_color": "#b88933",
             "header_text_color": "#1a1c1d",
             "header_font_size": 16,
             "text_color": "#2c2d2e",
             "text_size": 14,
             "border_color": "#e0e0e0",
             "row_alt_bg_color": "#fafafa",
-            "highlight_bg_color": "#f0f8ff",
+            "highlight_bg_color": "#b88933",
             "checkmark_color": "#00a651",
             "cross_color": "#d82c0d"
           },
@@ -370,9 +370,9 @@
         "collapsible_tab_pHDUVB": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Is this suitable for all skin types?",
+            "heading": "Are the bottles leak-proof?",
             "open": false,
-            "content": "<p>Yes, it’s designed to work for all skin types, including dry, oily, and sensitive skin.</p>",
+            "content": "<p>Yes, the bottles are designed with secure leak-proof caps to help prevent spills during travel.</p><h3></h3>",
             "page": "",
             "custom_liquid": ""
           }
@@ -380,9 +380,9 @@
         "collapsible_tab_8x3EF7": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "What does it help with?",
+            "heading": "What can I store in these bottles?",
             "open": false,
-            "content": "<p>It helps hydrate the skin, improve elasticity, and give a smoother, more radiant look.</p>",
+            "content": "<p>You can store shampoo, conditioner, lotion, body wash, face wash, makeup remover, and other liquid products.</p><h3></h3>",
             "page": "",
             "custom_liquid": ""
           }
@@ -390,9 +390,9 @@
         "collapsible_tab_XfjRHc": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How do I use it?",
+            "heading": "Is the set reusable?",
             "open": false,
-            "content": "<p>Apply a small amount to clean skin and gently massage until fully absorbed. Use daily for best results.</p>",
+            "content": "<p>Yes, the bottles are reusable and easy to clean for long-term use.</p><h3></h3>",
             "page": "",
             "custom_liquid": ""
           }
@@ -400,9 +400,9 @@
         "collapsible_tab_LTdPnU": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Can I use it day and night?",
+            "heading": "Can I carry the set in my handbag?",
             "open": false,
-            "content": "<p>Yes, it’s lightweight enough for daytime and nourishing enough for nighttime use.</p>",
+            "content": "<p>Yes, the compact and portable design fits easily into handbags, backpacks, and suitcases.</p><h3></h3>",
             "page": "",
             "custom_liquid": ""
           }
